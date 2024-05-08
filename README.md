@@ -1,6 +1,6 @@
 # 🎉 DEMO Laravel Moonshine
 
-Laravel Moonshine is an open-source dashboard and CRUD (Create-Read-Update-Delete) admin panel generator for Laravel applications. It simplifies admin panel development by allowing quick creation and customization of interfaces for managing database models. Moonshine streamlines the process of building user-friendly administration interfaces for your Laravel projects.
+MoonShine is an open-source Laravel admin panel for beginners and experts. It speeds up development of admin sections, MVPs, and content management systems with CRUD, authorization, and a user-friendly interface built with Blade, Livewire, and Tailwind CSS.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
